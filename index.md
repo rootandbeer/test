@@ -21,7 +21,7 @@ share: true
 >- Command Injection
 
 >[!shell]- ## Shells
-> - [Reverse Shells](./Reverse%20Shells.md)
+> - [Reverse Shells](./_MOCS/Reverse%20Shells.md)
 > - Web Shells
 > - Upgraded Shells
 
